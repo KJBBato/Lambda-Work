@@ -1,5 +1,12 @@
 # Lambda Work
 
+#### Project Done By
+- Kevin Bato
+- Salim Mansour
+- HongDa Huang
+- Joseph Dong
+- Jin Zheng
+
 ### 11/27/17
 - Completed Sprint 6 [here](./Deliverables/Sprint_Backlog-Sprint.pdf)
 
