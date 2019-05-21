@@ -1,0 +1,2 @@
+1. # Install node, add node.exe to PATH
+2. ./setup.sh # Runs the scripts to build and start the app

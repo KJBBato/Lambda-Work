@@ -1,0 +1,16 @@
+C01 Team Meeting (11/15/17)
+
+Topics to cover
+- Discuss progress
+- Prepare 5th sprint
+- Discuss and Prepare 5th deliverable
+
+Meeting Content (Chronological)
+- Discussed progress
+- Review changes made during sprint
+- Discussed new sprint tasks
+- Discussed implementation of new sprint tasks
+- Worked on deliverable (peer review video, documents)
+
+This week's work
+- Tasks recorded on the Sprint Backlog

@@ -1,0 +1,38 @@
+C01 Team Meeting (10/11/17)
+
+Topics to cover
+- User Stories
+- Deliverable
+
+Meeting Content (Chronological)
+- PERSONAS LINK: https://docs.google.com/document/d/1pmsE2-w34F9iPSqhQTdYVtFgKWLBolwO9MVO3cJZP3k/edit?usp=sharing
+- USER STORIES LINK: https://docs.google.com/document/d/12sr886R0I2HWER4nD7W9JX1H8ZPnlt2rJHe7aUfBE5c/edit?usp=sharing
+- Meeting begins by reviewing our pooled personas and user stories
+- We edit and improve on our personas while adding them to our personas deliverable
+- The team then focuses on user stories from last week, and tries to condense them and clean them up for the deliverable
+- We discuss our database solution for our product
+- We discuss how we want to implement the basic features of our product
+- Finish up going over personas and user stories
+- Kevin and Joseph will do a final review of deliverables before submission
+- End : 2 hours
+
+Questions for Client this week
+- Is there going to be manual grading by a TA/Prof or is there only going to be automatic grading?
+
+Questions for TA this week
+- No TA meeting this week
+
+This week's work
+- Look into database solution
+- Study for exams
+- Continue researching React
+
+HongDa
+Jin
+Joseph 
+Kevin
+Salim
+
+Next week's topics
+- UI Design
+- 1st Sprint

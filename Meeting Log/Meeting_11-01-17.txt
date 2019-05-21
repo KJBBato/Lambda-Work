@@ -1,0 +1,20 @@
+C01 Team Meeting (11/01/17)
+
+Topics to cover
+- Discuss progress
+- Prepare third sprint
+
+Meeting Content (Chronological)
+- Discussed work from previous week
+- Discussed deliverable for next Monday and prepped all our documents
+- Discussed backend implementation and what needs to be done
+- Discussed frontend implementation and what needs to be done to work with the backend
+- Discussed sprint 3 and planned out tasks for this sprint
+
+Questions for Client this week
+- Ask Sohee about problem set generation
+- Ask for any suggestions on question tags[ie. graphing, specific theories] 
+- Ask for any suggestions on user info when creating users
+
+This week's work
+- Tasks recorded on the Sprint Backlog

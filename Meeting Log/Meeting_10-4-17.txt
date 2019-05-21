@@ -1,0 +1,50 @@
+C01 Team Meeting (10/4/17)
+
+Topics to cover
+- Personas, User Stories
+- Update on React learning
+- Database system for our app 
+
+Meeting Content (Chronological)
+- Shared contact phone numbers, will upload to our git
+- Share personas and user stories on a google doc
+- Discuss personas and user stories (Every member came with prepared personas/user stories made over the weekend)
+- Discuss the criteria for personas and user stories and improving our existing ones
+- Condensed personas into 1 Tech Prof, Non-Tech Prof, Hardworking Student, Non-Hardworking Student
+- Labeled user stories along a 5 point scale in order of priority
+- End
+
+- Leaderboard idea (Salim): Students to exceed expectations on quizzes have names saved by Prof, prof can use these to decide on TA's in the future
+
+Questions for TA this week
+- Can we have user stories that are for all professors rather than a specific professor?
+- how many personas/user stories do we need?
+
+This week's work
+- Continue learning React
+- Research database solutions for project
+- Condense User Stories
+- Polish Personas and User Stories
+- Create PDF document (in same format as Team Agreement)
+
+HongDa
+Jin
+Joseph 
+Kevin
+Salim
+
+C01 Team Meeting (DATE)
+
+Topics to cover
+
+Meeting Content (Chronological)
+
+Questions for TA this week
+
+This week's work
+
+HongDa
+Jin
+Joseph 
+Kevin
+Salim

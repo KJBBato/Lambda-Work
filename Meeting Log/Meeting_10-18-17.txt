@@ -1,0 +1,32 @@
+C01 Team Meeting (10/18/17)
+
+Topics to cover
+- Catch up
+- Prepare first sprint
+- UI
+
+Meeting Content (Chronological)
+- Meet and catch up
+- Start looking into our user stories for 1st priority tasks
+- Talk about our database tables
+- Started planning first sprint
+- Talks about UI
+	- Have a left navigator and a main section in the index.js 
+	- Store all views as 'panes' on the screen
+	- index stores a vNav object
+	- index also stores an list of extra objects which are rendered only if required by the pane
+	- panes stored in a list and an index number determines which pane to render
+	For MCQs
+	- String value for question, list of strings for the candidates, string for answer, radio buttons to choose correct answer
+	For SAs
+	- String value for Question, textbox, string match
+- FlexboxGrid
+- First sprint is planned out in Sprint Backlog
+- Planning for git repository and initial React project set up
+
+Questions for Client this week
+- UI Options for MCQs
+
+This week's work
+- 1st Sprint
+- Tasks recorded on the Sprint Backlog

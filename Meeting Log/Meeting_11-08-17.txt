@@ -1,0 +1,17 @@
+C01 Team Meeting (11/08/17)
+
+Topics to cover
+- Discuss progress
+- Prepare for TA meeting about deliverable 4
+- Prepare 4th sprint
+
+Meeting Content (Chronological)
+- Start with recap of our features.
+- Figure out sprint 4 tasks
+- Discussed changing our app to save time on implementation and implement more features.
+
+Questions for Client this week
+- No questions but we will demo our current project
+
+This week's work
+- Tasks recorded on the Sprint Backlog
