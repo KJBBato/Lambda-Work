@@ -1,4 +1,4 @@
-# L02_07
+# Lambda Work
 
 ### 11/27/17
 - Completed Sprint 6 [here](./Deliverables/Sprint_Backlog-Sprint.pdf)
@@ -18,7 +18,7 @@
 - Sprint 6 (last sprint) to complete previous tasks that have not been finished.
 
 ### 11/20/17
-- Code Review uploaded [here](./Deliverables/Code_Review.pdf)
+- Code Review uploaded
 - Testing uploaded
 
 ### 11/15/17
@@ -94,7 +94,7 @@
 ### 10/04/17
 - TA meeting about User Stories Criteria uploaded
 - 10/04/17 Team meeting document uploaded
-- [Emergency Contact Info](./Contact_Info.txt) uploaded
+- Emergency Contact Info uploaded
 
 ### 09/24/17
-- [Team Agreement](./Deliverables/TeamAgreement-Challenger.pdf) uploaded
+- Team Agreement uploaded
